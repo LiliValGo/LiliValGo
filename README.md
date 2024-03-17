@@ -29,3 +29,8 @@ This project uses time series data to predict corn crop yield in Colombia 🇨�
 * ⚒️ [Analysis of Coal Production in Colombia](https://github.com/LiliValGo/Coal-Production-Colombia)
 
 Data analysis that includes information on annual coal production, royalties generated, and climate variables. Descriptive analysis and visual analysis techniques were used
+
+
+## Find me around the web
+* Talking and sharing in [LinkedIn](https://www.linkedin.com/in/lilivalgo/)
+* And know a little more about my work in [LinkedIn](https://www.linkedin.com/in/lilivalgo/)
