@@ -1,10 +1,10 @@
-# Hi there, I'm Lili Valencia 
+# Hi, I'm Lili 💚 👩🏻‍💻
 
 💚 I'm an Environmental Engineer  turned Data Analyst with aspirations to become a Data Engineer. I have experience in data manipulation, analysis, and visualization using Python + Libraries, SQL, and Power BI. I've explored some concepts and models of machine learning 🦾.
 
-👩‍💻 In my free time, I actively participate in communities of various technological stacks. 
+👩🏻‍💻 In my free time, I actively participate in communities of various technological stacks. 
 
-🌱 I'm currently learning [Rust](https://doc.rust-lang.org/book/), SQL Server Analysis Services, and SQL Server Integration Services.
+🦀 I'm currently learning [Rust](https://doc.rust-lang.org/book/), SQL Server Analysis Services, and SQL Server Integration Services.
 
 ## Some technologies I use
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
