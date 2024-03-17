@@ -17,9 +17,12 @@
 ## Some of my projects
 * 📄 [NLP Analysis of UN Climate Change Reports](https://github.com/LiliValGo/NLP-Analysis-of-UN-Climate-Change-Reports)
 
-** This project uses Natural Language Processing (NLP) techniques to analyze large amounts of textual data from UN reports on climate change. By applying NLP, the project aims to extract valuable information that can shed light on critical aspects of climate change.
+ This project uses Natural Language Processing (NLP) techniques to analyze large amounts of textual data from UN reports on climate change. By applying NLP, the project aims to extract valuable information that can shed light on critical aspects of climate change.
 
 * [IRCA - Water Quality Classification Program in Rust](https://github.com/LiliValGo/Irca-Rust)
-This program implements the IRCA (Índice de Riesgo de Calidad del Agua) water quality classification system as defined in Colombia 🇨🇴
+  
+This program implements the IRCA (Índice de Riesgo de Calidad del Agua) water quality classification system as defined by Colombian 🇨🇴 RESOLUCION 2115 DE 2007
+
 * [Analysis of Coal Production in Colombia](https://github.com/LiliValGo/Coal-Production-Colombia)
+
 Data analysis that includes information on annual coal production, royalties generated, and climate variables. Descriptive analysis and visual analysis techniques were used
