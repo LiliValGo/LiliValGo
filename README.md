@@ -41,4 +41,3 @@ This project combines web scraping, PDF processing, and Natural Language Process
 
 ## Find me around the web
 * Talking and sharing in [LinkedIn](https://www.linkedin.com/in/lilivalgo/)
-* And know a little more about my work in [LinkedIn](https://www.linkedin.com/in/lilivalgo/)
