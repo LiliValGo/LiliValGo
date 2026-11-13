@@ -4,8 +4,6 @@
 data quality, reproducible infrastructure, and turning messy real-world data into
 decision-ready datasets.
 
-Environmental Engineer by training — I bring domain context (climate, water, mining)
-to data engineering problems.
 
 ---
 
@@ -15,7 +13,6 @@ to data engineering problems.
 - **Transformations** — SQL and dbt models that run the same locally (DuckDB) and in the cloud (BigQuery)
 - **Data quality** — validation rules, confidence scoring, and tests that run in CI
 - **Infrastructure as code** — Terraform, containers, and serverless (Cloud Run, AWS Lambda)
-- **Domain data** — environmental and climate datasets translated into analytics products
 
 ---
 
