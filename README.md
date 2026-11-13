@@ -59,4 +59,4 @@ to data engineering problems.
 
 ## Find me
 
-[LinkedIn](https://www.linkedin.com/in/lilivalgo/) · [X](https://twitter.com/LiliValGo)
+[LinkedIn](https://www.linkedin.com/in/lilivalgo-data-engineer/) · [X](https://twitter.com/LiliValGo)
